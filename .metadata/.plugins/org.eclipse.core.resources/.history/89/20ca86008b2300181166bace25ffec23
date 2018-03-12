@@ -1,0 +1,6 @@
+@CHARSET "UTF-8";
+home.jsp {
+color: #000000;
+background-color: #f8dce0;
+background-image: url("nagi-yoshida_GDJERGk.jpg")
+}

@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+C:\Users\testuser\Desktop\workspace\workspace-yanai\test\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3082098993.index
+1902442511.index
+1926095233.index
+232431835.index
+186443393.index
+3212848297.index
+2254090954.index
