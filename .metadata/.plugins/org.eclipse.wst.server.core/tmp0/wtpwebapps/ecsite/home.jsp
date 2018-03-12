@@ -21,6 +21,9 @@ height: 100px;
 width: 150px
 }
 
+p{
+padding-top:300px;
+}
 
 </style>
 
@@ -60,6 +63,10 @@ width: 150px
 
 </div>
 <div id="footer">
+
+
+
+
 
 <div id="pr">
 </div>

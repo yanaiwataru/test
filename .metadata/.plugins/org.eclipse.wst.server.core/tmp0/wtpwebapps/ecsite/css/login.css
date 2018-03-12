@@ -1,5 +1,9 @@
 @CHARSET "UTF-8";
 
+
+
+
+
 .color{
 
 }
@@ -31,6 +35,21 @@
       position: relative;
       z-index: 1;
     }
+
+
+
+
+
+
+    .logo{
+		height:20px
+		width:50px
+		inline-block:80px;
+		}
+
+
+
+
 
     .main {
       animation: first 10s infinite;

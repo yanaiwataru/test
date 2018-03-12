@@ -13,6 +13,9 @@
 <meta name="description" content="" />
 <meta name="keywords" content="" />
 <title>Login画面</title>
+
+
+
 <style type="text/css">
 body {
 	margin: 0;
@@ -66,7 +69,12 @@ table {
 
 	<div id="header">
 
-		<div id="pr"></div>
+		<div id="pr">
+
+		<img class="logo" src="./image/logo.png">
+		
+
+		</div>
 
 	</div>
 	<div class="main">
@@ -90,8 +98,9 @@ table {
 			<div class="second"></div>
 			<div class="third"></div>
 			<div class="txt">
-				<h1>Mood Lighting</h1>
-				<p>Using only CSS</p>
+				<h1>ほしいものが、きっとみつかる</h1>
+				<p>BackPackerNow</p>
+
 			</div>
 		</div>
 		<br />
